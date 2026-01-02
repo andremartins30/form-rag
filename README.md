@@ -27,11 +27,6 @@ cp .env.example .env.local
 
 Edite `.env.local` com suas credenciais:
 
-```env
-API_ENDPOINT=https://n8n.redaline.dev/webhook-test/seu-webhook-id
-API_TOKEN=seu_token_aqui
-```
-
 ### 2. Instalação
 
 ```bash
